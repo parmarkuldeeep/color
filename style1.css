@@ -1,0 +1,24 @@
+body{
+	font : "Raleway" ,sans-serif;
+	color: rgba(0,0,0.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	top: 15%;
+	background: linear-gradient(to right ,red ,yellow); /* Standard syantax */
+
+}
+h1{
+	font : 400 6em "Raleway" ,sans-serif;
+	color :rgba(0,0,0,5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+h2{
+	font :900 em "Raleway" ,sans-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: 5px;
+}
